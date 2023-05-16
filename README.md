@@ -1,6 +1,6 @@
 <img align="center" src="https://i.imgur.com/e0ExF31.png"/>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ericrocha97&color=blueviolet" alt="Profile views" /> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ericrocha97&color=blueviolet&style=flat-square" alt="Profile views" /> 
 
 </p>
 
@@ -30,7 +30,7 @@
 <br>
 
 <p align="center">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=ericrocha97&show_icons=true&theme=nightowl" alt="ericrocha97 stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=ericrocha97&show_icons=true&theme=rose_pine" alt="ericrocha97 stats"/>
 </p>
 
 ##
