@@ -1,6 +1,6 @@
 <img align="center" src="https://i.imgur.com/e0ExF31.png"/>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ericrocha97&color=blueviolet&style=flat-square" alt="Profile views" /> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ericrocha97&color=blueviolet&style=flat-square" alt="Profile views" />
 
 </p>
 
@@ -30,33 +30,44 @@
 
 ## 🎓 &nbsp;Certifications
 
-![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-grey?style=flat&logo=amazon%20web%20services)&nbsp;
-![AWS Certified Developer – Associate](https://img.shields.io/badge/AWS%20Developer%20Associate-2c32d7?style=flat&logo=amazon%20web%20services)&nbsp;
-![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS%20Solutions%20Architect%20Associate-2c32d7?style=flat&logo=amazon%20web%20services)&nbsp;
-![GitHub Foundations](https://img.shields.io/badge/GitHub%20Foundations-black?style=flat&logo=github)&nbsp;
+<p align="center">
+  <a href="https://www.credly.com/badges/13ac4492-78b5-4cef-9f7d-15229da20aba" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-grey?style=flat&logo=amazon%20web%20services" alt="AWS Certified Cloud Practitioner" />
+  </a>
+  <a href="https://www.credly.com/badges/3a7c81ae-258e-489f-ae40-3be9fd73c513" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/AWS%20Developer%20Associate-2c32d7?style=flat&logo=amazon%20web%20services" alt="AWS Certified Developer – Associate" />
+  </a>
+  <a href="https://www.credly.com/badges/ae6a1bae-c84f-4292-af0e-3b86561ec90c" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/AWS%20Solutions%20Architect%20Associate-2c32d7?style=flat&logo=amazon%20web%20services" alt="AWS Certified Solutions Architect – Associate" />
+  </a>
+  <a href="https://www.credly.com/badges/ae6a1bae-c84f-4292-af0e-3b86561ec90c" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/GitHub%20Foundations-black?style=flat&logo=github" alt="GitHub Foundations" />
+  </a>
+</p>
 
 My journey in cloud computing and development has been reinforced by achieving these certifications, reflecting my commitment to continuous learning and professional growth.
 
 ## ⚙️ &nbsp;GitHub Analytics
+
 <br>
 
 <p align="center">
-<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericrocha97&layout=compact&langs_count=7&theme=rose_pine" alt="ericrocha97 stats" />
+  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericrocha97&layout=compact&langs_count=7&theme=rose_pine" alt="ericrocha97 stats" />
 </p>
 
 ##
 
-<p align="center" style="background:blue">
+<p align="center">
   <a href="https://instagram.com/eric_rocha97" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-ericrocha97-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://linkedin.com/in/eric-rocha1997" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-ericrocha97-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://x.com/eric__rocha" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-eric__rocha-05122A?style=flat&logo=x" alt="twitter"/>
-</a>
+    <img align="center" src="https://img.shields.io/badge/-ericrocha97-05122A?style=flat&logo=instagram" alt="instagram"/>
+  </a>
+  <a href="https://linkedin.com/in/eric-rocha1997" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-ericrocha97-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  </a>
+  <a href="https://x.com/eric__rocha" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-eric__rocha-05122A?style=flat&logo=x" alt="x"/>
+  </a>
   <a href="https://discord.com/users/502884632694358027" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-ericrocha97-05122A?style=flat&logo=discord" alt="discord"/>
-</a>
+    <img align="center" src="https://img.shields.io/badge/-ericrocha97-05122A?style=flat&logo=discord" alt="discord"/>
+  </a>
 </p>
