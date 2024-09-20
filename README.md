@@ -30,7 +30,7 @@
 <br>
 
 <p align="center">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=ericrocha97&show_icons=true&theme=rose_pine" alt="ericrocha97 stats"/>
+<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericrocha97&layout=compact&langs_count=7&theme=rose_pine" alt="ericrocha97 stats" />
 </p>
 
 ##
