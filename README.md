@@ -40,7 +40,7 @@
   <a href="https://www.credly.com/badges/ae6a1bae-c84f-4292-af0e-3b86561ec90c" target="_blank">
     <img align="center" src="https://img.shields.io/badge/AWS%20Solutions%20Architect%20Associate-2c32d7?style=flat&logo=amazon%20web%20services" alt="AWS Certified Solutions Architect – Associate" />
   </a>
-  <a href="https://www.credly.com/badges/ae6a1bae-c84f-4292-af0e-3b86561ec90c" target="_blank">
+  <a href="https://www.credly.com/badges/9ed7bb1f-5091-4fb8-b76d-94c39b144398" target="_blank">
     <img align="center" src="https://img.shields.io/badge/GitHub%20Foundations-black?style=flat&logo=github" alt="GitHub Foundations" />
   </a>
 </p>
