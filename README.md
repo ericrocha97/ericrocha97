@@ -1,73 +1,59 @@
-<img align="center" src="https://i.imgur.com/e0ExF31.png"/>
+# Eric Rocha
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ericrocha97&color=blueviolet&style=flat-square" alt="Profile views" />
+👋 Hello World! I'm Eric, a passionate Full Stack Developer dedicated to building cloud-native applications and delivering seamless user experiences. Welcome to my GitHub profile!
 
-</p>
+> Full Stack Developer | Cloud Computing Specialist
 
-- 🔭  I’m currently working on [Accenture](https://www.accenture.com/)
+## 👨‍💻 About Me
 
-- 🌱  I’m always studying **JavaScript, ReactJS, React Native, TypeScript, NodeJS**
-
-- 🚀  How to reach me  [ericrocha.dev](https://ericrocha.dev)
-
-<br>
+- 🔭 Currently working at [Accenture](https://www.accenture.com/)
+- 🌱 Always improving my skills in **React, React Native, TypeScript and Cloud Computing**
+- 🚀 Find my links and contact info: [ericrocha.dev](https://ericrocha.dev)
+- 💬 Ask me about **web development and AWS architecture**
 
 ## 🛠 &nbsp;Tech Stack
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+### Programming Languages
 
-<br>
+![Kotlin](https://img.shields.io/badge/-Kotlin-26233a?labelColor=191724&style=for-the-badge&logo=kotlin)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-26233a?labelColor=191724&style=for-the-badge&logo=typescript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-26233a?labelColor=191724&style=for-the-badge&logo=java)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-26233a?labelColor=191724&style=for-the-badge&logo=HTML5)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-26233a?labelColor=191724&style=for-the-badge&logo=javascript)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-26233a?labelColor=191724&style=for-the-badge&logo=postgresql)&nbsp;
+![Shell](https://img.shields.io/badge/-Shell-26233a?labelColor=191724&style=for-the-badge&logo=gnu-bash)&nbsp;
+
+### Frameworks & Libraries
+
+![React](https://img.shields.io/badge/-React-26233a?labelColor=191724&style=for-the-badge&logo=react)&nbsp;
+![React Native](https://img.shields.io/badge/-React%20Native-26233a?labelColor=191724&style=for-the-badge&logo=react)&nbsp;
+![Spring](https://img.shields.io/badge/-Spring-26233a?labelColor=191724&style=for-the-badge&logo=spring)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-26233a?labelColor=191724&style=for-the-badge&logo=node.js)&nbsp;
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/-Git-26233a?labelColor=191724&style=for-the-badge&logo=git)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-26233a?labelColor=191724&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NDAgNTEyIj48IS0tIUZvbnQgQXdlc29tZSBGcmVlIDYuNy4yIGJ5IEBmb250YXdlc29tZSAtIGh0dHBzOi8vZm9udGF3ZXNvbWUuY29tIExpY2Vuc2UgLSBodHRwczovL2ZvbnRhd2Vzb21lLmNvbS9saWNlbnNlL2ZyZWUgQ29weXJpZ2h0IDIwMjUgRm9udGljb25zLCBJbmMuLS0+PHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTE4MC40IDIwM2MtLjcgMjIuNyAxMC42IDMyLjcgMTAuOSAzOS4xYTguMiA4LjIgMCAwIDEgLTQuMSA2LjNsLTEyLjggOWExMC43IDEwLjcgMCAwIDEgLTUuNiAxLjljLS40IDAtOC4yIDEuOC0yMC41LTI1LjZhNzguNiA3OC42IDAgMCAxIC02Mi42IDI5LjVjLTE2LjMgLjktNjAuNC05LjItNTguMS01Ni4yLTEuNi0zOC4zIDM0LjEtNjIuMSA3MC45LTYwLjEgNy4xIDAgMjEuNiAuNCA0NyA2LjN2LTE1LjZjMi43LTI2LjUtMTQuNy00Ny00NC44LTQzLjktMi40IDAtMTkuNC0uNS00NS44IDEwLjEtNy40IDMuNC04LjMgMi44LTEwLjggMi44LTcuNCAwLTQuNC0yMS41LTIuOS0yNC4yIDUuMi02LjQgMzUuOS0xOC40IDY1LjktMTguMmE3Ni45IDc2LjkgMCAwIDEgNTUuNyAxNy4zIDcwLjMgNzAuMyAwIDAgMSAxNy43IDUyLjRsMCA2OS4zek05NCAyMzUuNGMzMi40LS41IDQ2LjItMjAgNDkuMy0zMC41IDIuNS0xMC4xIDIuMS0xNi40IDIuMS0yNy40LTkuNy0yLjMtMjMuNi00LjktMzkuNi00LjktMTUuMi0xLjEtNDIuOCA1LjYtNDEuNyAzMi4zLTEuMiAxNi44IDExLjEgMzEuNCAzMCAzMC41em0xNzAuOSAyMy4xYy03LjkgLjctMTEuNS00LjktMTIuNy0xMC40bC00OS44LTE2NC43Yy0xLTIuOC0xLjYtNS43LTEuOS04LjZhNC42IDQuNiAwIDAgMSAzLjktNS4zYy4yIDAtMi4xIDAgMjIuMyAwIDguOC0uOSAxMS42IDYgMTIuNiAxMC40bDM1LjcgMTQwLjggMzMuMi0xNDAuOGMuNS0zLjIgMi45LTExLjEgMTIuOC0xMC4yaDE3LjJjMi4yLS4yIDExLjEtLjUgMTIuNyAxMC40bDMzLjQgMTQyLjZMNDIxIDgwLjFjLjUtMi4yIDIuNy0xMS40IDEyLjctMTAuNGgxOS43Yy45LS4xIDYuMi0uOCA1LjMgOC42LS40IDEuOSAzLjQtMTAuNy01Mi44IDE2OS45LTEuMiA1LjUtNC44IDExLjEtMTIuNyAxMC40aC0xOC43Yy0xMC45IDEuMi0xMi41LTkuNy0xMi43LTEwLjhMMzI4LjcgMTEwLjdsLTMyLjggMTM3Yy0uMiAxLjEtMS43IDExLjktMTIuNyAxMC44aC0xOC4zem0yNzMuNSA1LjZjLTUuOSAwLTMzLjktLjMtNTcuNC0xMi4zYTEyLjggMTIuOCAwIDAgMSAtNy44LTExLjl2LTEwLjhjMC04LjUgNi4yLTYuOSA4LjgtNS45IDEwIDQuMSAxNi41IDcuMSAyOC44IDkuNiAzNi43IDcuNSA1Mi44LTIuMyA1Ni43LTQuNSAxMy4yLTcuOCAxNC4yLTI1LjcgNS4zLTM1LTEwLjUtOC44LTE1LjUtOS4xLTUzLjEtMjEtNC42LTEuMy00My43LTEzLjYtNDMuOC01Mi40LS42LTI4LjIgMjUuMS01Ni4yIDY5LjUtNTYgMTIuNyAwIDQ2LjQgNC4xIDU1LjYgMTUuNiAxLjQgMi4xIDIgNC42IDEuOSA3djEwLjFjMCA0LjQtMS42IDYuNy00LjkgNi43LTcuNy0uOS0yMS40LTExLjItNDkuMi0xMC44LTYuOS0uNC0zOS45IC45LTM4LjQgMjUtLjQgMTkgMjYuNiAyNi4xIDI5LjcgMjYuOSAzNi41IDExIDQ4LjcgMTIuOCA2My4xIDI5LjYgMTcuMSAyMi4zIDcuOSA0OC4zIDQuNCA1NS40LTE5LjEgMzcuNS02OC40IDM0LjQtNjkuMyAzNC40em00MC4yIDEwNC45Yy03MCA1MS43LTE3MS43IDc5LjMtMjU4LjUgNzkuM0E0NjkuMSA0NjkuMSAwIDAgMSAyLjggMzI3LjVjLTYuNS01LjktLjgtMTQgNy4yLTkuNWE2MzcuNCA2MzcuNCAwIDAgMCAzMTYuOSA4NC4xIDYzMC4yIDYzMC4yIDAgMCAwIDI0MS42LTQ5LjZjMTEuOC01IDIxLjggNy44IDEwLjEgMTYuNHptMjkuMi0zMy4zYy05LTExLjUtNTkuMy01LjQtODEuOC0yLjctNi44IC44LTcuOS01LjEtMS44LTkuNSA0MC4xLTI4LjIgMTA1LjktMjAuMSAxMTMuNC0xMC42IDcuNiA5LjUtMi4xIDc1LjQtMzkuNiAxMDYuOS01LjggNC45LTExLjMgMi4zLTguNy00LjEgOC40LTIxLjMgMjcuNC02OC41IDE4LjQtODB6Ii8+PC9zdmc+)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-26233a?labelColor=191724&style=for-the-badge&logo=github)&nbsp;
 
 ## 🎓 &nbsp;Certifications
 
-<p align="center">
-  <a href="https://www.credly.com/badges/13ac4492-78b5-4cef-9f7d-15229da20aba" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-grey?style=flat&logo=amazon%20web%20services" alt="AWS Certified Cloud Practitioner" />
-  </a>
-  <a href="https://www.credly.com/badges/3a7c81ae-258e-489f-ae40-3be9fd73c513" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/AWS%20Developer%20Associate-2c32d7?style=flat&logo=amazon%20web%20services" alt="AWS Certified Developer – Associate" />
-  </a>
-  <a href="https://www.credly.com/badges/ae6a1bae-c84f-4292-af0e-3b86561ec90c" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/AWS%20Solutions%20Architect%20Associate-2c32d7?style=flat&logo=amazon%20web%20services" alt="AWS Certified Solutions Architect – Associate" />
-  </a>
-  <a href="https://www.credly.com/badges/9ed7bb1f-5091-4fb8-b76d-94c39b144398" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/GitHub%20Foundations-black?style=flat&logo=github" alt="GitHub Foundations" />
-  </a>
-</p>
+As a cloud and development professional, I've earned several industry certifications that validate my expertise:
+
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-grey?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NDAgNTEyIj48IS0tIUZvbnQgQXdlc29tZSBGcmVlIDYuNy4yIGJ5IEBmb250YXdlc29tZSAtIGh0dHBzOi8vZm9udGF3ZXNvbWUuY29tIExpY2Vuc2UgLSBodHRwczovL2ZvbnRhd2Vzb21lLmNvbS9saWNlbnNlL2ZyZWUgQ29weXJpZ2h0IDIwMjUgRm9udGljb25zLCBJbmMuLS0+PHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTE4MC40IDIwM2MtLjcgMjIuNyAxMC42IDMyLjcgMTAuOSAzOS4xYTguMiA4LjIgMCAwIDEgLTQuMSA2LjNsLTEyLjggOWExMC43IDEwLjcgMCAwIDEgLTUuNiAxLjljLS40IDAtOC4yIDEuOC0yMC41LTI1LjZhNzguNiA3OC42IDAgMCAxIC02Mi42IDI5LjVjLTE2LjMgLjktNjAuNC05LjItNTguMS01Ni4yLTEuNi0zOC4zIDM0LjEtNjIuMSA3MC45LTYwLjEgNy4xIDAgMjEuNiAuNCA0NyA2LjN2LTE1LjZjMi43LTI2LjUtMTQuNy00Ny00NC44LTQzLjktMi40IDAtMTkuNC0uNS00NS44IDEwLjEtNy40IDMuNC04LjMgMi44LTEwLjggMi44LTcuNCAwLTQuNC0yMS41LTIuOS0yNC4yIDUuMi02LjQgMzUuOS0xOC40IDY1LjktMTguMmE3Ni45IDc2LjkgMCAwIDEgNTUuNyAxNy4zIDcwLjMgNzAuMyAwIDAgMSAxNy43IDUyLjRsMCA2OS4zek05NCAyMzUuNGMzMi40LS41IDQ2LjItMjAgNDkuMy0zMC41IDIuNS0xMC4xIDIuMS0xNi40IDIuMS0yNy40LTkuNy0yLjMtMjMuNi00LjktMzkuNi00LjktMTUuMi0xLjEtNDIuOCA1LjYtNDEuNyAzMi4zLTEuMiAxNi44IDExLjEgMzEuNCAzMCAzMC41em0xNzAuOSAyMy4xYy03LjkgLjctMTEuNS00LjktMTIuNy0xMC40bC00OS44LTE2NC43Yy0xLTIuOC0xLjYtNS43LTEuOS04LjZhNC42IDQuNiAwIDAgMSAzLjktNS4zYy4yIDAtMi4xIDAgMjIuMyAwIDguOC0uOSAxMS42IDYgMTIuNiAxMC40bDM1LjcgMTQwLjggMzMuMi0xNDAuOGMuNS0zLjIgMi45LTExLjEgMTIuOC0xMC4yaDE3LjJjMi4yLS4yIDExLjEtLjUgMTIuNyAxMC40bDMzLjQgMTQyLjZMNDIxIDgwLjFjLjUtMi4yIDIuNy0xMS40IDEyLjctMTAuNGgxOS43Yy45LS4xIDYuMi0uOCA1LjMgOC42LS40IDEuOSAzLjQtMTAuNy01Mi44IDE2OS45LTEuMiA1LjUtNC44IDExLjEtMTIuNyAxMC40aC0xOC43Yy0xMC45IDEuMi0xMi41LTkuNy0xMi43LTEwLjhMMzI4LjcgMTEwLjdsLTMyLjggMTM3Yy0uMiAxLjEtMS43IDExLjktMTIuNyAxMC44aC0xOC4zem0yNzMuNSA1LjZjLTUuOSAwLTMzLjktLjMtNTcuNC0xMi4zYTEyLjggMTIuOCAwIDAgMSAtNy44LTExLjl2LTEwLjhjMC04LjUgNi4yLTYuOSA4LjgtNS45IDEwIDQuMSAxNi41IDcuMSAyOC44IDkuNiAzNi43IDcuNSA1Mi44LTIuMyA1Ni43LTQuNSAxMy4yLTcuOCAxNC4yLTI1LjcgNS4zLTM1LTEwLjUtOC44LTE1LjUtOS4xLTUzLjEtMjEtNC42LTEuMy00My43LTEzLjYtNDMuOC01Mi40LS42LTI4LjIgMjUuMS01Ni4yIDY5LjUtNTYgMTIuNyAwIDQ2LjQgNC4xIDU1LjYgMTUuNiAxLjQgMi4xIDIgNC42IDEuOSA3djEwLjFjMCA0LjQtMS42IDYuNy00LjkgNi43LTcuNy0uOS0yMS40LTExLjItNDkuMi0xMC44LTYuOS0uNC0zOS45IC45LTM4LjQgMjUtLjQgMTkgMjYuNiAyNi4xIDI5LjcgMjYuOSAzNi41IDExIDQ4LjcgMTIuOCA2My4xIDI5LjYgMTcuMSAyMi4zIDcuOSA0OC4zIDQuNCA1NS40LTE5LjEgMzcuNS02OC40IDM0LjQtNjkuMyAzNC40em00MC4yIDEwNC45Yy03MCA1MS43LTE3MS43IDc5LjMtMjU4LjUgNzkuM0E0NjkuMSA0NjkuMSAwIDAgMSAyLjggMzI3LjVjLTYuNS01LjktLjgtMTQgNy4yLTkuNWE2MzcuNCA2MzcuNCAwIDAgMCAzMTYuOSA4NC4xIDYzMC4yIDYzMC4yIDAgMCAwIDI0MS42LTQ5LjZjMTEuOC01IDIxLjggNy44IDEwLjEgMTYuNHptMjkuMi0zMy4zYy05LTExLjUtNTkuMy01LjQtODEuOC0yLjctNi44IC44LTcuOS01LjEtMS44LTkuNSA0MC4xLTI4LjIgMTA1LjktMjAuMSAxMTMuNC0xMC42IDcuNiA5LjUtMi4xIDc1LjQtMzkuNiAxMDYuOS01LjggNC45LTExLjMgMi4zLTguNy00LjEgOC40LTIxLjMgMjcuNC02OC41IDE4LjQtODB6Ii8+PC9zdmc+)](https://www.credly.com/badges/13ac4492-78b5-4cef-9f7d-15229da20aba)
+[![AWS Certified Developer – Associate](https://img.shields.io/badge/AWS%20Developer%20Associate-2c32d7?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NDAgNTEyIj48IS0tIUZvbnQgQXdlc29tZSBGcmVlIDYuNy4yIGJ5IEBmb250YXdlc29tZSAtIGh0dHBzOi8vZm9udGF3ZXNvbWUuY29tIExpY2Vuc2UgLSBodHRwczovL2ZvbnRhd2Vzb21lLmNvbS9saWNlbnNlL2ZyZWUgQ29weXJpZ2h0IDIwMjUgRm9udGljb25zLCBJbmMuLS0+PHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTE4MC40IDIwM2MtLjcgMjIuNyAxMC42IDMyLjcgMTAuOSAzOS4xYTguMiA4LjIgMCAwIDEgLTQuMSA2LjNsLTEyLjggOWExMC43IDEwLjcgMCAwIDEgLTUuNiAxLjljLS40IDAtOC4yIDEuOC0yMC41LTI1LjZhNzguNiA3OC42IDAgMCAxIC02Mi42IDI5LjVjLTE2LjMgLjktNjAuNC05LjItNTguMS01Ni4yLTEuNi0zOC4zIDM0LjEtNjIuMSA3MC45LTYwLjEgNy4xIDAgMjEuNiAuNCA0NyA2LjN2LTE1LjZjMi43LTI2LjUtMTQuNy00Ny00NC44LTQzLjktMi40IDAtMTkuNC0uNS00NS44IDEwLjEtNy40IDMuNC04LjMgMi44LTEwLjggMi44LTcuNCAwLTQuNC0yMS41LTIuOS0yNC4yIDUuMi02LjQgMzUuOS0xOC40IDY1LjktMTguMmE3Ni45IDc2LjkgMCAwIDEgNTUuNyAxNy4zIDcwLjMgNzAuMyAwIDAgMSAxNy43IDUyLjRsMCA2OS4zek05NCAyMzUuNGMzMi40LS41IDQ2LjItMjAgNDkuMy0zMC41IDIuNS0xMC4xIDIuMS0xNi40IDIuMS0yNy40LTkuNy0yLjMtMjMuNi00LjktMzkuNi00LjktMTUuMi0xLjEtNDIuOCA1LjYtNDEuNyAzMi4zLTEuMiAxNi44IDExLjEgMzEuNCAzMCAzMC41em0xNzAuOSAyMy4xYy03LjkgLjctMTEuNS00LjktMTIuNy0xMC40bC00OS44LTE2NC43Yy0xLTIuOC0xLjYtNS43LTEuOS04LjZhNC42IDQuNiAwIDAgMSAzLjktNS4zYy4yIDAtMi4xIDAgMjIuMyAwIDguOC0uOSAxMS42IDYgMTIuNiAxMC40bDM1LjcgMTQwLjggMzMuMi0xNDAuOGMuNS0zLjIgMi45LTExLjEgMTIuOC0xMC4yaDE3LjJjMi4yLS4yIDExLjEtLjUgMTIuNyAxMC40bDMzLjQgMTQyLjZMNDIxIDgwLjFjLjUtMi4yIDIuNy0xMS40IDEyLjctMTAuNGgxOS43Yy45LS4xIDYuMi0uOCA1LjMgOC42LS40IDEuOSAzLjQtMTAuNy01Mi44IDE2OS45LTEuMiA1LjUtNC44IDExLjEtMTIuNyAxMC40aC0xOC43Yy0xMC45IDEuMi0xMi41LTkuNy0xMi43LTEwLjhMMzI4LjcgMTEwLjdsLTMyLjggMTM3Yy0uMiAxLjEtMS43IDExLjktMTIuNyAxMC44aC0xOC4zem0yNzMuNSA1LjZjLTUuOSAwLTMzLjktLjMtNTcuNC0xMi4zYTEyLjggMTIuOCAwIDAgMSAtNy44LTExLjl2LTEwLjhjMC04LjUgNi4yLTYuOSA4LjgtNS45IDEwIDQuMSAxNi41IDcuMSAyOC44IDkuNiAzNi43IDcuNSA1Mi44LTIuMyA1Ni43LTQuNSAxMy4yLTcuOCAxNC4yLTI1LjcgNS4zLTM1LTEwLjUtOC44LTE1LjUtOS4xLTUzLjEtMjEtNC42LTEuMy00My43LTEzLjYtNDMuOC01Mi40LS42LTI4LjIgMjUuMS01Ni4yIDY5LjUtNTYgMTIuNyAwIDQ2LjQgNC4xIDU1LjYgMTUuNiAxLjQgMi4xIDIgNC42IDEuOSA3djEwLjFjMCA0LjQtMS42IDYuNy00LjkgNi43LTcuNy0uOS0yMS40LTExLjItNDkuMi0xMC44LTYuOS0uNC0zOS45IC45LTM4LjQgMjUtLjQgMTkgMjYuNiAyNi4xIDI5LjcgMjYuOSAzNi41IDExIDQ4LjcgMTIuOCA2My4xIDI5LjYgMTcuMSAyMi4zIDcuOSA0OC4zIDQuNCA1NS40LTE5LjEgMzcuNS02OC40IDM0LjQtNjkuMyAzNC40em00MC4yIDEwNC45Yy03MCA1MS43LTE3MS43IDc5LjMtMjU4LjUgNzkuM0E0NjkuMSA0NjkuMSAwIDAgMSAyLjggMzI3LjVjLTYuNS01LjktLjgtMTQgNy4yLTkuNWE2MzcuNCA2MzcuNCAwIDAgMCAzMTYuOSA4NC4xIDYzMC4yIDYzMC4yIDAgMCAwIDI0MS42LTQ5LjZjMTEuOC01IDIxLjggNy44IDEwLjEgMTYuNHptMjkuMi0zMy4zYy05LTExLjUtNTkuMy01LjQtODEuOC0yLjctNi44IC44LTcuOS01LjEtMS44LTkuNSA0MC4xLTI4LjIgMTA1LjktMjAuMSAxMTMuNC0xMC42IDcuNiA5LjUtMi4xIDc1LjQtMzkuNiAxMDYuOS01LjggNC45LTExLjMgMi4zLTguNy00LjEgOC40LTIxLjMgMjcuNC02OC41IDE4LjQtODB6Ii8+PC9zdmc+)](https://www.credly.com/badges/3a7c81ae-258e-489f-ae40-3be9fd73c513)
+[![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS%20Solutions%20Architect%20Associate-2c32d7?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NDAgNTEyIj48IS0tIUZvbnQgQXdlc29tZSBGcmVlIDYuNy4yIGJ5IEBmb250YXdlc29tZSAtIGh0dHBzOi8vZm9udGF3ZXNvbWUuY29tIExpY2Vuc2UgLSBodHRwczovL2ZvbnRhd2Vzb21lLmNvbS9saWNlbnNlL2ZyZWUgQ29weXJpZ2h0IDIwMjUgRm9udGljb25zLCBJbmMuLS0+PHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTE4MC40IDIwM2MtLjcgMjIuNyAxMC42IDMyLjcgMTAuOSAzOS4xYTguMiA4LjIgMCAwIDEgLTQuMSA2LjNsLTEyLjggOWExMC43IDEwLjcgMCAwIDEgLTUuNiAxLjljLS40IDAtOC4yIDEuOC0yMC41LTI1LjZhNzguNiA3OC42IDAgMCAxIC02Mi42IDI5LjVjLTE2LjMgLjktNjAuNC05LjItNTguMS01Ni4yLTEuNi0zOC4zIDM0LjEtNjIuMSA3MC45LTYwLjEgNy4xIDAgMjEuNiAuNCA0NyA2LjN2LTE1LjZjMi43LTI2LjUtMTQuNy00Ny00NC44LTQzLjktMi40IDAtMTkuNC0uNS00NS44IDEwLjEtNy40IDMuNC04LjMgMi44LTEwLjggMi44LTcuNCAwLTQuNC0yMS41LTIuOS0yNC4yIDUuMi02LjQgMzUuOS0xOC40IDY1LjktMTguMmE3Ni45IDc2LjkgMCAwIDEgNTUuNyAxNy4zIDcwLjMgNzAuMyAwIDAgMSAxNy43IDUyLjRsMCA2OS4zek05NCAyMzUuNGMzMi40LS41IDQ2LjItMjAgNDkuMy0zMC41IDIuNS0xMC4xIDIuMS0xNi40IDIuMS0yNy40LTkuNy0yLjMtMjMuNi00LjktMzkuNi00LjktMTUuMi0xLjEtNDIuOCA1LjYtNDEuNyAzMi4zLTEuMiAxNi44IDExLjEgMzEuNCAzMCAzMC41em0xNzAuOSAyMy4xYy03LjkgLjctMTEuNS00LjktMTIuNy0xMC40bC00OS44LTE2NC43Yy0xLTIuOC0xLjYtNS43LTEuOS04LjZhNC42IDQuNiAwIDAgMSAzLjktNS4zYy4yIDAtMi4xIDAgMjIuMyAwIDguOC0uOSAxMS42IDYgMTIuNiAxMC40bDM1LjcgMTQwLjggMzMuMi0xNDAuOGMuNS0zLjIgMi45LTExLjEgMTIuOC0xMC4yaDE3LjJjMi4yLS4yIDExLjEtLjUgMTIuNyAxMC40bDMzLjQgMTQyLjZMNDIxIDgwLjFjLjUtMi4yIDIuNy0xMS40IDEyLjctMTAuNGgxOS43Yy45LS4xIDYuMi0uOCA1LjMgOC42LS40IDEuOSAzLjQtMTAuNy01Mi44IDE2OS45LTEuMiA1LjUtNC44IDExLjEtMTIuNyAxMC40aC0xOC43Yy0xMC45IDEuMi0xMi41LTkuNy0xMi43LTEwLjhMMzI4LjcgMTEwLjdsLTMyLjggMTM3Yy0uMiAxLjEtMS43IDExLjktMTIuNyAxMC44aC0xOC4zem0yNzMuNSA1LjZjLTUuOSAwLTMzLjktLjMtNTcuNC0xMi4zYTEyLjggMTIuOCAwIDAgMSAtNy44LTExLjl2LTEwLjhjMC04LjUgNi4yLTYuOSA4LjgtNS45IDEwIDQuMSAxNi41IDcuMSAyOC44IDkuNiAzNi43IDcuNSA1Mi44LTIuMyA1Ni43LTQuNSAxMy4yLTcuOCAxNC4yLTI1LjcgNS4zLTM1LTEwLjUtOC44LTE1LjUtOS4xLTUzLjEtMjEtNC42LTEuMy00My43LTEzLjYtNDMuOC01Mi40LS42LTI4LjIgMjUuMS01Ni4yIDY5LjUtNTYgMTIuNyAwIDQ2LjQgNC4xIDU1LjYgMTUuNiAxLjQgMi4xIDIgNC42IDEuOSA3djEwLjFjMCA0LjQtMS42IDYuNy00LjkgNi43LTcuNy0uOS0yMS40LTExLjItNDkuMi0xMC44LTYuOS0uNC0zOS45IC45LTM4LjQgMjUtLjQgMTkgMjYuNiAyNi4xIDI5LjcgMjYuOSAzNi41IDExIDQ4LjcgMTIuOCA2My4xIDI5LjYgMTcuMSAyMi4zIDcuOSA0OC4zIDQuNCA1NS40LTE5LjEgMzcuNS02OC40IDM0LjQtNjkuMyAzNC40em00MC4yIDEwNC45Yy03MCA1MS43LTE3MS43IDc5LjMtMjU4LjUgNzkuM0E0NjkuMSA0NjkuMSAwIDAgMSAyLjggMzI3LjVjLTYuNS01LjktLjgtMTQgNy4yLTkuNWE2MzcuNCA2MzcuNCAwIDAgMCAzMTYuOSA4NC4xIDYzMC4yIDYzMC4yIDAgMCAwIDI0MS42LTQ5LjZjMTEuOC01IDIxLjggNy44IDEwLjEgMTYuNHptMjkuMi0zMy4zYy05LTExLjUtNTkuMy01LjQtODEuOC0yLjctNi44IC44LTcuOS01LjEtMS44LTkuNSA0MC4xLTI4LjIgMTA1LjktMjAuMSAxMTMuNC0xMC42IDcuNiA5LjUtMi4xIDc1LjQtMzkuNiAxMDYuOS01LjggNC45LTExLjMgMi4zLTguNy00LjEgOC40LTIxLjMgMjcuNC02OC41IDE4LjQtODB6Ii8+PC9zdmc+)](https://www.credly.com/badges/ae6a1bae-c84f-4292-af0e-3b86561ec90c)
+[![GitHub Foundations](https://img.shields.io/badge/GitHub%20Foundations-black?style=for-the-badge&logo=github)](https://www.credly.com/badges/9ed7bb1f-5091-4fb8-b76d-94c39b144398)
 
 My journey in cloud computing and development has been reinforced by achieving these certifications, reflecting my commitment to continuous learning and professional growth.
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<br>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ericrocha97&layout=compact&langs_count=7&theme=rose_pine)
 
-<p align="center">
-  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericrocha97&layout=compact&langs_count=7&theme=rose_pine" alt="ericrocha97 stats" />
-</p>
+-----
 
-##
-
-<p align="center">
-  <a href="https://instagram.com/eric_rocha97" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-ericrocha97-05122A?style=flat&logo=instagram" alt="instagram"/>
-  </a>
-  <a href="https://linkedin.com/in/eric-rocha1997" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-ericrocha97-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-  </a>
-  <a href="https://x.com/eric__rocha" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-eric__rocha-05122A?style=flat&logo=x" alt="x"/>
-  </a>
-  <a href="https://discord.com/users/502884632694358027" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-ericrocha97-05122A?style=flat&logo=discord" alt="discord"/>
-  </a>
-</p>
+[![Instagram](https://img.shields.io/badge/-ericrocha97-26233a?labelColor=191724&style=for-the-badge&logo=instagram)](https://instagram.com/eric_rocha97)
+[![LinkedIn](https://img.shields.io/badge/-ericrocha97-26233a?labelColor=191724&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0NDggNTEyIj48IS0tIUZvbnQgQXdlc29tZSBGcmVlIDYuNy4yIGJ5IEBmb250YXdlc29tZSAtIGh0dHBzOi8vZm9udGF3ZXNvbWUuY29tL2xpY2Vuc2UvZnJlZSBDb3B5cmlnaHQgMjAyNSBGb250aWNvbnMsIEluYy4tLT48cGF0aCBmaWxsPSIjZmZmZmZmIiBkPSJNMTAwLjMgNDQ4SDcuNFYxNDguOWg5Mi45ek01My44IDEwOC4xQzI0LjEgMTA4LjEgMCA4My41IDAgNTMuOGE1My44IDUzLjggMCAwIDEgMTA3LjYgMGMwIDI5LjctMjQuMSA1NC4zLTUzLjggNTQuM3pNNDQ3LjkgNDQ4aC05Mi43VjMwMi40YzAtMzQuNy0uNy03OS4yLTQ4LjMtNzkuMi00OC4zIDAtNTUuNyAzNy43LTU1LjcgNzYuN1Y0NDhoLTkyLjhWMTQ4LjloODkuMXY0MC44aDEuM2MxMi40LTIzLjUgNDIuNy00OC4zIDg3LjktNDguMyA5NCAwIDExMS4zIDYxLjkgMTExLjMgMTQyLjNWNDQ4eiIvPjwvc3ZnPgo=)](https://linkedin.com/in/eric-rocha1997)
+[![X](https://img.shields.io/badge/-eric__rocha-26233a?labelColor=191724&style=for-the-badge&logo=x)](https://x.com/eric__rocha)
+[![Discord](https://img.shields.io/badge/-ericrocha97-26233a?labelColor=191724&style=for-the-badge&logo=discord&logoColor=FFFFFF)](https://discord.com/users/502884632694358027)
